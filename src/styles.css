@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.input-box {
+  width: 500px;
+  padding: 5px;
+  font-size: large;
+  border-radius: 5px;
+}
+.sugg-container {
+  width: 500px;
+  margin: auto;
+  border: 1px solid black;
+  width: 500px;
+  padding: 5px;
+  font-size: medium;
+  border-radius: 5px;
+  text-align: left;
+  height: 300px;
+  overflow-y: scroll;
+}
+.sugg {
+  display: block;
+  padding: 3px;
+}
+.sugg:hover {
+  background-color: beige;
+  cursor: pointer;
+}
